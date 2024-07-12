@@ -1,0 +1,6 @@
+Flask
+pillow
+imgaug
+albumentations
+streamlit
+numpy
